@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hotel_Reseversion_System.DoubleRoom" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAACBAAAAAAQAAAAAAAAAAABAAAAAEA=</HashCode>
+      <FileName>DoubleRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Reseversion_System.FamilyRoom" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAABAAAAAAACAAAAAAAAAABAgCAAAA=</HashCode>
+      <FileName>FamilyRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Reseversion_System.SingleRoom" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAACBAIAAAgACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SingleRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Reseversion_System.Room" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAQAAAIEEAACAAAAAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
