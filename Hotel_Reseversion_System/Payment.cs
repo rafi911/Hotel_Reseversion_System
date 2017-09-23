@@ -38,6 +38,7 @@ namespace Hotel_Reseversion_System
             var issueDateYear = DateTime.Parse(issueDateString).Year; 
             var expiryDateYear = DateTime.Parse(expiryDateString).Year;
 
+            // validating expire data of credit card
             var different = (expiryDateYear - issueDateYear); 
             if (different < 4 || issueDate.Date > expiryDate.Date || issueDate > DateTime.Now || different > 4)
             {
